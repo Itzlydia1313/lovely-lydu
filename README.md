@@ -1,3 +1,2 @@
-# lovely-lydu
-my life my story- my way!
-this is my AI project for the Building AI course University of Helsinki
+##Summary
+This project is my AI course submission where I share my story and my way of life. It includes exercises and examples I completed during the Building AI course by Reaktor and the University of Helsinki. for the Building AI course University of Helsinki
